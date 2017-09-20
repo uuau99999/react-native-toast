@@ -1,11 +1,11 @@
 {
-    "name": "@remobile/react-native-toast",
-    "version": "1.0.6",
+    "name": "@uuau99999/react-native-toast",
+    "version": "1.0.0",
     "description": "A android like toast for react-native support for ios and android",
     "main": "index.js",
     "author": {
-        "name": "YunJiang.Fang",
-        "email": "42550564@qq.com"
+        "name": "Hoyup",
+        "email": "uuau99999@gmail.com"
     },
     "license": "MIT",
     "keywords": [
@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-toast",
+    "homepage": "https://github.com/uuau99999/react-native-toast",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-toast/issues"
+        "url": "https://github.com/uuau99999/react-native-toast/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-toast.git"
+        "url": "https://github.com/uuau99999/react-native-toast"
     }
 }
